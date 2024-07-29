@@ -1,0 +1,29 @@
+/* body, html {
+	height: 100%;
+	margin: 0;
+	background-image:linear-gradient(to right,#ac8cf8,#6c83dd,#6680e7,#9170e0);
+}
+.predict-container {
+	
+	height: 90vh; /* Full height of the viewport */
+
+/* }  */
+/* .predict-card {
+	max-height: 80vh; /* Restrict max height */
+/* overflow-y: auto; Enable scrolling within the card if content overflows */
+/* } */
+/* #map {
+	height: 400px; /* Fixed height for map */
+/* } */
+
+body {
+	background-image: linear-gradient(to right, #ac8cf8, #6c83dd, #6680e7, #9170e0);
+}
+
+.card{
+    background-image: linear-gradient(to right, #ffefba, rgba(240, 240, 240, 0.875),#ffefba);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #333; /* Adjust text color for better readability */
+}
